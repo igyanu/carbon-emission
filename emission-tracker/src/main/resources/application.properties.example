@@ -1,0 +1,5 @@
+spring.application.name=emission-tracker
+
+# JWT config
+jwt.secret=replace_this_with_a_long_random_secret_keyjhhg87
+jwt.expirationMs=86400000

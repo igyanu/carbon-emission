@@ -1,0 +1,16 @@
+# Secrets (NEVER COMMIT)
+application.yml
+application.properties
+
+# IDE
+.idea/
+*.iml
+
+target/
+build/
+# Tools
+sonarqube-7.9.6/
+.sonar/
+# Build output
+# OS
+Thumbs.db
